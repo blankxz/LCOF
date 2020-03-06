@@ -1,14 +1,16 @@
 class Solution:
     def cuttingRope(self, n: int) -> int:
+        a = 0
         if n <= 3:
-            return 1*(n-1)
+            a =  1*(n-1)
         else:
             if n%3 == 0:
-                return 3 ** (n//3)
+                a =  3 ** (n//3)
             elif n%3 == 1:
-                return (3 ** (n//3-1)) * 4
+                a =  (3 ** (n//3-1)) * 4
             else:
-                return  (3 ** (n//3)) * 2
+                a =  (3 ** (n//3)) * 2
+        return a % (10**9+7)
 
 s = Solution()
 a = s.cuttingRope(6)
