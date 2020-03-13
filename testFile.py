@@ -92,3 +92,51 @@ if x in mydict:
     print("中文意思：", mydict[x])
 else:
     print("抱歉，没找到。")
+    
+    
+    
+
+def quick(arr,left,right):
+    if arr == []:
+        return
+    if left > right:
+        return 
+    key = arr[left]
+    l = left
+    r = right
+    while l!=r:
+        
+        while arr[r]>=key and l<r:
+            r -= 1
+        while arr[l]<=key and l<r:
+            l += 1
+        if l<r:
+            arr[l],arr[r] = arr[r],arr[l]
+    arr[left], arr[l] = arr[l], arr[left]
+    quick(arr,left,l-1)
+    quick(arr,l+1,right)
+    
+a = [1,5,7,8,3]
+quick(a,0,4)
+print(a)
+
+a = [1,5,7,8,3]
+def quick2(a):
+    if len(a)<2: return a
+    key = a[len(a)//2]
+    l = []
+    r = []
+    a.remove(key)
+    for i in a:
+        if i<key:
+            l.append(i)
+        else:
+            r.append(i)
+    return quick2(l)+[key]+quick2(r)
+
+print(quick2([1,5,7,8,3]))
+
+
+m = [[1,2,3,4],[5,6,7,8],[9,10,11,12]]
+print(*m)
+print(m)
