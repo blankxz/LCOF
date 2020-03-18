@@ -16,5 +16,3 @@ class Solution:
 s = Solution()
 print(s.permutation('abbc'))
 
-students = [('john', 'A', 15), ('jane', 'B', 12), ('dave', 'B', 10)]
-sorted(students, key=lambda student : student[2])

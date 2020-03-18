@@ -29,3 +29,4 @@ def insert(arr):
     return arr
 print(insert([3,6,8,1,2,10,5]))
 
+    
