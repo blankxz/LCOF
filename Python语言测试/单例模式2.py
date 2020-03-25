@@ -23,3 +23,12 @@ obj1 = Singleton()
 obj2 = Singleton()
 print(obj1, obj2)
 
+a = {'1':2}
+print(a.get('2'))
+
+a = 1
+b = 1
+print(id(a))
+print(id(b))
+
+print(a is b)
