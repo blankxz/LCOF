@@ -39,3 +39,7 @@ print(dd)
 d(dd,ddd)
 print(dd)
 print(ddd)
+
+from Python语言测试.私有化属性及方法 import __c
+print(__c)
+
