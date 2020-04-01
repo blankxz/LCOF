@@ -23,3 +23,19 @@ def mergeSort(arr):
 a = [2,8,9,10,4,5,6,7]
 a = mergeSort(a)
 print(a)
+
+class A:
+    @staticmethod
+    def hello():
+        print('ss')
+    def hello2(self):
+        print('sss')
+    @classmethod
+    def hello3(cls):
+        print('ssss')
+
+
+a = A()
+a.hello3()
+A.hello3()
+
