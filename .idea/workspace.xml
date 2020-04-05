@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="661877d4-78e2-4750-a0dd-9411540cbfe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python语言测试/多学习.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python语言测试/多学习.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python语言测试/多学习.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/排序、二分等基础算法" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
@@ -89,6 +89,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/做过的算法题集/小仓的射击练习4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="死锁及解决办法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/死锁及解决办法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生产消费实例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/生产消费实例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -449,50 +493,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="死锁及解决办法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/死锁及解决办法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="生产消费实例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/生产消费实例.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="list与dict数据结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LCOF" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -567,7 +567,9 @@
       <workItem from="1585848993482" duration="834000" />
       <workItem from="1585922064237" duration="2213000" />
       <workItem from="1585927797381" duration="125000" />
-      <workItem from="1586015481059" duration="17000" />
+      <workItem from="1586015481059" duration="452000" />
+      <workItem from="1586078296178" duration="237000" />
+      <workItem from="1586095387514" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1585146242149</created>
@@ -604,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585927843656</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <created>1586015502822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586015502822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,14 +636,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="406" y="231" width="468" height="485" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.800@0.0.1280.800" timestamp="1585106968846" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1585927842951">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1586015502092">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1585927842951" />
-    <state x="422" y="157" key="FileChooserDialogImpl" timestamp="1585641245177">
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586015502092" />
+    <state x="422" y="157" key="FileChooserDialogImpl" timestamp="1586078530885">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="422" y="157" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1585641245177" />
+    <state x="422" y="157" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1586078530885" />
     <state width="1238" height="303" key="GridCell.Tab.0.bottom" timestamp="1585925780209">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -675,10 +684,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="142" y="43" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585106969956" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586015480656">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586078482571">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1586015480656" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1586078482571" />
     <state x="436" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585667897854">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
