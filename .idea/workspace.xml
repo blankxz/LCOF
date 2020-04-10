@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="661877d4-78e2-4750-a0dd-9411540cbfe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/做过的算法题集/分礼物.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/做过的算法题集/回文游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/做过的算法题集/抽卡.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python语言测试/mysql10wip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python语言测试/testfile3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python语言测试/程序设计.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/MyGiT/seckilling/seckilling" />
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +54,7 @@
       <recent name="D:\Coding\LCOF\LCOF\排序、二分等基础算法" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.回文游戏">
+  <component name="RunManager" selected="Python.程序设计">
     <configuration name="进程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LCOF" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="分礼物" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="程序设计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LCOF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,12 +85,122 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/做过的算法题集" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/做过的算法题集/分礼物.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/程序设计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="私有化属性及方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/私有化属性及方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序、二分等基础算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序、二分等基础算法/归并排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试列表线程是否安全" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/测试列表线程是否安全.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="线程锁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/线程锁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试列表线程是否安全" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/测试列表线程是否安全.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,6 +319,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="堆排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/堆排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="输入规范" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LCOF" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,28 +377,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/堆.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="测试列表线程是否安全" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/测试列表线程是否安全.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -429,28 +539,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="堆排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/堆排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LCOF" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -465,6 +553,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/二分查找.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="分礼物" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/做过的算法题集" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/做过的算法题集/分礼物.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -583,94 +693,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="私有化属性及方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/私有化属性及方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序、二分等基础算法" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序、二分等基础算法/归并排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="线程锁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/线程锁.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="测试列表线程是否安全" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LCOF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等/测试列表线程是否安全.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="多线程输出abc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LCOF" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -693,18 +715,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mysql10wip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/mysql10wip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testfile3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCOF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言测试" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言测试/testfile3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.进程" />
       <item itemvalue="Python.多线程输出abc" />
-      <item itemvalue="Python.分礼物" />
-      <item itemvalue="Python.回文游戏" />
-      <item itemvalue="Python.抽卡" />
+      <item itemvalue="Python.mysql10wip" />
+      <item itemvalue="Python.testfile3" />
+      <item itemvalue="Python.程序设计" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.回文游戏" />
-        <item itemvalue="Python.抽卡" />
-        <item itemvalue="Python.分礼物" />
+        <item itemvalue="Python.程序设计" />
+        <item itemvalue="Python.testfile3" />
+        <item itemvalue="Python.mysql10wip" />
         <item itemvalue="Python.多线程输出abc" />
         <item itemvalue="Python.进程" />
       </list>
@@ -754,7 +820,10 @@
       <workItem from="1586095387514" duration="49000" />
       <workItem from="1586150451500" duration="8456000" />
       <workItem from="1586227681040" duration="4649000" />
-      <workItem from="1586315041344" duration="8816000" />
+      <workItem from="1586315041344" duration="9235000" />
+      <workItem from="1586437370629" duration="1259000" />
+      <workItem from="1586439792626" duration="6911000" />
+      <workItem from="1586483270036" duration="5767000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1585146242149</created>
@@ -819,7 +888,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586272828808</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new">
+      <created>1586358850794</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586358850794</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -846,46 +922,46 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="351" y="17" key="#pytest_for_线程的创建、启动、挂起和退出.test/0.0.1280.800@0.0.1280.800" timestamp="1586150558612" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1586272827857">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1586358850119">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586272827857" />
-    <state x="422" y="157" key="FileChooserDialogImpl" timestamp="1586078530885">
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586358850119" />
+    <state x="422" y="157" key="FileChooserDialogImpl" timestamp="1586502581159">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="422" y="157" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1586078530885" />
-    <state width="1238" height="192" key="GridCell.Tab.0.bottom" timestamp="1586349526748">
+    <state x="422" y="157" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1586502581159" />
+    <state width="1238" height="252" key="GridCell.Tab.0.bottom" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="192" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586349526748" />
-    <state width="1238" height="192" key="GridCell.Tab.0.center" timestamp="1586349526747">
+    <state width="1238" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
+    <state width="1238" height="252" key="GridCell.Tab.0.center" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="192" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586349526747" />
-    <state width="1238" height="192" key="GridCell.Tab.0.left" timestamp="1586349526747">
+    <state width="1238" height="252" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
+    <state width="1238" height="252" key="GridCell.Tab.0.left" timestamp="1586502581935">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="192" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586349526747" />
-    <state width="1238" height="192" key="GridCell.Tab.0.right" timestamp="1586349526747">
+    <state width="1238" height="252" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586502581935" />
+    <state width="1238" height="252" key="GridCell.Tab.0.right" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="192" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586349526747" />
-    <state width="1238" height="252" key="GridCell.Tab.1.bottom" timestamp="1585764619952">
+    <state width="1238" height="252" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
+    <state width="1238" height="252" key="GridCell.Tab.1.bottom" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585764619952" />
-    <state width="1238" height="252" key="GridCell.Tab.1.center" timestamp="1585764619952">
+    <state width="1238" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
+    <state width="1238" height="252" key="GridCell.Tab.1.center" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1585764619952" />
-    <state width="1238" height="252" key="GridCell.Tab.1.left" timestamp="1585764619952">
+    <state width="1238" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
+    <state width="1238" height="252" key="GridCell.Tab.1.left" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1585764619952" />
-    <state width="1238" height="252" key="GridCell.Tab.1.right" timestamp="1585764619952">
+    <state width="1238" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
+    <state width="1238" height="252" key="GridCell.Tab.1.right" timestamp="1586502581936">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1585764619952" />
+    <state width="1238" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1586502581936" />
     <state x="495" y="111" key="RollbackChangesDialog" timestamp="1585743105803">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -894,31 +970,33 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="142" y="43" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585106969956" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586315041288">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586483272172">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1586315041288" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1586483272172" />
     <state x="436" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585667897854">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="436" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1585667897854" />
-    <state x="309" y="128" width="672" height="678" key="search.everywhere.popup" timestamp="1585568532756">
+    <state x="312" y="131" width="672" height="678" key="search.everywhere.popup" timestamp="1586446342488">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="309" y="128" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585568532756" />
+    <state x="312" y="131" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1586446342488" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LCOF$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1585153275145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试/WSGI尝试" />
     <SUITE FILE_PATH="coverage/LCOF$zibi.coverage" NAME="zibi Coverage Results" MODIFIED="1585569578820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做过的算法题集" />
+    <SUITE FILE_PATH="coverage/LCOF$mysql10wip.coverage" NAME="mysql10wip Coverage Results" MODIFIED="1586445380274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
     <SUITE FILE_PATH="coverage/LCOF$listdict.coverage" NAME="list与dict数据结构 Coverage Results" MODIFIED="1585849212999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
     <SUITE FILE_PATH="coverage/LCOF$pytest_in__py.coverage" NAME="pytest in 多学习.py Coverage Results" MODIFIED="1586150611285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
     <SUITE FILE_PATH="coverage/LCOF$mn.coverage" NAME="反转m到n的链表 Coverage Results" MODIFIED="1585571616477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做过的算法题集" />
+    <SUITE FILE_PATH="coverage/LCOF$testfile3.coverage" NAME="testfile3 Coverage Results" MODIFIED="1586446438973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
     <SUITE FILE_PATH="coverage/LCOF$n.coverage" NAME="删除倒数第n个结点 Coverage Results" MODIFIED="1585483987938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/删除倒数第n个结点" />
     <SUITE FILE_PATH="coverage/LCOF$redis_.coverage" NAME="redis_抢购 Coverage Results" MODIFIED="1585206300134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
     <SUITE FILE_PATH="coverage/LCOF$LCOF_Python.coverage" NAME="LCOF_Python Coverage Results" MODIFIED="1585104958744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LCOF$redis.coverage" NAME="redis锁 Coverage Results" MODIFIED="1585475802618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
     <SUITE FILE_PATH="coverage/LCOF$Python.coverage" NAME="Python多进程通信 Coverage Results" MODIFIED="1585404407816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
-    <SUITE FILE_PATH="coverage/LCOF$.coverage" NAME="回文游戏 Coverage Results" MODIFIED="1586349526737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做过的算法题集" />
+    <SUITE FILE_PATH="coverage/LCOF$.coverage" NAME="程序设计 Coverage Results" MODIFIED="1586488321849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试" />
     <SUITE FILE_PATH="coverage/LCOF$hello.coverage" NAME="hello Coverage Results" MODIFIED="1585565806847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/礼物的最大价值" />
     <SUITE FILE_PATH="coverage/LCOF$pipe.coverage" NAME="生产消费实力pipe Coverage Results" MODIFIED="1585488469749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
     <SUITE FILE_PATH="coverage/LCOF$abc.coverage" NAME="多线程输出abc Coverage Results" MODIFIED="1586191713780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python语言测试/多线程、多进程、消息队列等" />
