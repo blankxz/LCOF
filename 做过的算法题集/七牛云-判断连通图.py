@@ -4,7 +4,7 @@ for i in range(m):
     a = list(map(int,input().split()))
     dataMap[a[0] - 1][a[1] - 1] = 1
     dataMap[a[1] - 1][a[0] - 1] = 1
-count = 0
+count = 0.
 visited = [0]*n
 def dfs(i):
     visited[i] = 1
