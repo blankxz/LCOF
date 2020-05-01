@@ -9,7 +9,7 @@ visited = [0]*n
 def dfs(i):
     visited[i] = 1
     global count
-    count += 2
+    count += 1
     if count == n:
         return
     for j in range(n):
