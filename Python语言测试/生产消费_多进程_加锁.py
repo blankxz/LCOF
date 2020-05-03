@@ -39,7 +39,6 @@ if __name__ == "__main__":
     q = Queue()
     l = Lock()
     con = Condition(l)
-    p = Producer(1000,q,l,con)
     c = Consumer(q,l,con)
     p.start()
     c.start()
