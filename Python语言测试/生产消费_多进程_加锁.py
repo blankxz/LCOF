@@ -40,6 +40,4 @@ if __name__ == "__main__":
     l = Lock()
     con = Condition(l)
     c = Consumer(q,l,con)
-    p.start()
-    c.start()
 
