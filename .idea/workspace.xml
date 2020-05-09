@@ -1120,7 +1120,7 @@
       <workItem from="1588604899533" duration="960000" />
       <workItem from="1588661186625" duration="387000" />
       <workItem from="1588691417226" duration="751000" />
-      <workItem from="1588952872446" duration="12000" />
+      <workItem from="1588952872446" duration="556000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1585146242149</created>
@@ -1346,7 +1346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588691558517</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="new">
+      <created>1588952890470</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588952890470</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1373,10 +1380,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="351" y="17" key="#pytest_for_线程的创建、启动、挂起和退出.test/0.0.1280.800@0.0.1280.800" timestamp="1586150558612" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1588691557887">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1588952889656">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1588691557887" />
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1588952889656" />
     <state x="422" y="157" key="FileChooserDialogImpl" timestamp="1588661572193">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
