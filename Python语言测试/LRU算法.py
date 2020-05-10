@@ -25,3 +25,7 @@ class LRUCathe:
             # 判断当前容量是否满了
             if len(self.od) > self.capacity:
                 self.od.popitem(last=False)
+                
+
+print(((0.05**2)+(0.12**2))**0.5)
+print('dasdasd')
