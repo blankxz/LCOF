@@ -14,3 +14,4 @@ s = Solution()
 a = s.cuttingRope(6)
     
 print(a)
+# 输出
