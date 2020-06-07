@@ -14,5 +14,5 @@ class Solution:
         return  res
     
 s = Solution()
-print(s.permutation('abbc'))
+print(s.permutation('abbbbc'))
 
