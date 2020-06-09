@@ -13,6 +13,6 @@ class Solution:
         return a % (10**9+7)
 
 s = Solution()
-a = s.cuttingRope(6)
+a = s.cuttingRope(6) #
     
 print(a)
