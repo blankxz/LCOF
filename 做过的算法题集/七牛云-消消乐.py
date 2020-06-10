@@ -9,7 +9,7 @@ for i in range(t):
         m = 0
         for j in range(len(s)):
             if len(s[n:m]) == 2:
-                for x in range(n, m):
+                for x in range(n, m):1
                     s[x] = '0'
                 n = j
                 m = n + 1
@@ -23,8 +23,8 @@ for i in range(t):
         if len(s[n:m]) == 2:
             for x in range(n, m):
                 s[x] = '0'
-        r = []
-        # print(s)
+        r = []1
+        # print(s)11
         for x in s:
             if x != '0':
                 r.append(x)
