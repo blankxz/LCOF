@@ -5,7 +5,7 @@ class Solution:
             for j in str(i):
                 if j == '1':
                 # print(i)
-                    num += 1
+                    num += 1算是
         print(num)
 
 
