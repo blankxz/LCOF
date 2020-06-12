@@ -12,4 +12,4 @@ class Solution:
             if postorder[j]<root:
                 return False
 
-        return self.verifyPostorder(postorder[:i]) and self.verifyPostorder(postorder[i:n-1])
+        return self.verifyPostorder(postorder[:i]) and self.verifyPostorder(postorder[i:n-1])###
