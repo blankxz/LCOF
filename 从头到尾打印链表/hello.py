@@ -9,4 +9,4 @@ class Solution:
         while head:
             lis.append(head.val)
             head = head.next
-        return lis[::-1]
+        return lis[::-1] #考试安排的好多
