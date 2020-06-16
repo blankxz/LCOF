@@ -9,7 +9,7 @@ class Solution:
         cur_node = None
         pre_node = copy.deepcopy(head)
         while pre_node:
-            temp = pre_node.next
+            temp = pre_node.next #？？？？？？？？？
             pre_node.next = cur_node
             cur_node = pre_node
             pre_node =temp
