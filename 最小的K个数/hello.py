@@ -21,7 +21,7 @@ class Solution:
             partation(l,left-1,arr,k)
             partation(left+1,r,arr,k)
 
-        partation(0,len(arr)-1,arr,k)
+        partation(0,len(arr)-1,arr,k) #########
         print(arr)
         return arr[:k]
             
