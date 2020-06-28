@@ -12,4 +12,4 @@ class Solution:
 s = Solution()
 a = s.countDigitOne(824883294)
 
-print(a)##
+print(a)#####
